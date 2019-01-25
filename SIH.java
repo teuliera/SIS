@@ -6,7 +6,7 @@ import org.w3c.dom.NodeList;
  * 
  * @author Emmanuel Promayon, (c) UJF - Polytech'Grenoble - 2011
  */
-public class DomTest {
+public class SIH  {
     //Coucou Annelise
 
     public static void main(String[] args) {
