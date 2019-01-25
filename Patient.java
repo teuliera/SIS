@@ -4,6 +4,7 @@ import org.xml.sax.SAXException;
 import java.io.IOException;
 
 public class Patient {
+<<<<<<< Updated upstream
 String NomUsuel;
 String NomDeNaissance;
 Date DateDeNaissance;
@@ -14,6 +15,9 @@ Ipp ipp;
 MedecinGeneraliste medecinGeneraliste;
 Dma dma;
 Localisation localisation;
+=======
+    public static void main (String[] args){
+>>>>>>> Stashed changes
 
     public Patient(String nomUsuel, String nomDeNaissance, Date dateDeNaissance, Sexe sexe, String prenom, Adresse adresse, Ipp ipp, MedecinGeneraliste medecinGeneraliste, Dma dma, Localisation localisation) {
         NomUsuel = nomUsuel;
