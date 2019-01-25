@@ -7,7 +7,7 @@ import org.w3c.dom.NodeList;
  * @author Emmanuel Promayon, (c) UJF - Polytech'Grenoble - 2011
  */
 public class DomTest {
-    //hello
+    //aaaaaaaa
 
     public static void main(String[] args) {
         String nomDocumentCentre = "src/centre.xml";
