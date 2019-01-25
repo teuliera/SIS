@@ -4,6 +4,10 @@ import org.xml.sax.SAXException;
 import java.io.IOException;
 
 public class Patient {
+String NomUsuel;
+String NomDeNaissance;
+Date DateDeNaissance;
+
 
     }
 }
